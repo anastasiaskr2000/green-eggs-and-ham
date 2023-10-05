@@ -1,0 +1,201 @@
+REF_DATE,GEO,price_indexes,house_price
+1981-01,Canada,Total (house and land),38.2
+1981-01,Canada,House only,36.1
+1981-01,Canada,Land only,40.6
+1981-01,Atlantic Region,Total (house and land),
+1981-01,Atlantic Region,House only,
+1981-01,Atlantic Region,Land only,
+1981-01,Newfoundland and Labrador,Total (house and land),
+1981-01,Newfoundland and Labrador,House only,
+1981-01,Newfoundland and Labrador,Land only,
+1981-01,"St. John's, Newfoundland and Labrador",Total (house and land),36.1
+1981-01,"St. John's, Newfoundland and Labrador",House only,37.5
+1981-01,"St. John's, Newfoundland and Labrador",Land only,31.4
+1981-01,Prince Edward Island,Total (house and land),
+1981-01,Prince Edward Island,House only,
+1981-01,Prince Edward Island,Land only,
+1981-01,"Charlottetown, Prince Edward Island",Total (house and land),
+1981-01,"Charlottetown, Prince Edward Island",House only,
+1981-01,"Charlottetown, Prince Edward Island",Land only,
+1981-01,Nova Scotia,Total (house and land),
+1981-01,Nova Scotia,House only,
+1981-01,Nova Scotia,Land only,
+1981-01,"Halifax, Nova Scotia",Total (house and land),
+1981-01,"Halifax, Nova Scotia",House only,
+1981-01,"Halifax, Nova Scotia",Land only,32.5
+1981-01,New Brunswick,Total (house and land),
+1981-01,New Brunswick,House only,
+1981-01,New Brunswick,Land only,
+1981-01,"Saint John, Fredericton, and Moncton, New Brunswick",Total (house and land),55.9
+1981-01,"Saint John, Fredericton, and Moncton, New Brunswick",House only,61.4
+1981-01,"Saint John, Fredericton, and Moncton, New Brunswick",Land only,38.0
+1981-01,Quebec,Total (house and land),
+1981-01,Quebec,House only,
+1981-01,Quebec,Land only,
+1981-01,"Québec, Quebec",Total (house and land),30.1
+1981-01,"Québec, Quebec",House only,34.9
+1981-01,"Québec, Quebec",Land only,19.8
+1981-01,"Sherbrooke, Quebec",Total (house and land),
+1981-01,"Sherbrooke, Quebec",House only,
+1981-01,"Sherbrooke, Quebec",Land only,
+1981-01,"Trois-Rivières, Quebec",Total (house and land),
+1981-01,"Trois-Rivières, Quebec",House only,
+1981-01,"Trois-Rivières, Quebec",Land only,
+1981-01,"Montréal, Quebec",Total (house and land),28.5
+1981-01,"Montréal, Quebec",House only,30.0
+1981-01,"Montréal, Quebec",Land only,20.3
+1981-01,"Ottawa-Gatineau, Quebec part, Ontario/Quebec",Total (house and land),
+1981-01,"Ottawa-Gatineau, Quebec part, Ontario/Quebec",House only,
+1981-01,"Ottawa-Gatineau, Quebec part, Ontario/Quebec",Land only,
+1981-01,Ontario,Total (house and land),
+1981-01,Ontario,House only,
+1981-01,Ontario,Land only,
+1981-01,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",Total (house and land),32.6
+1981-01,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",House only,30.8
+1981-01,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",Land only,39.9
+1981-01,"Oshawa, Ontario",Total (house and land),
+1981-01,"Oshawa, Ontario",House only,
+1981-01,"Oshawa, Ontario",Land only,
+1981-01,"Toronto, Ontario",Total (house and land),28.0
+1981-01,"Toronto, Ontario",House only,22.6
+1981-01,"Toronto, Ontario",Land only,39.1
+1981-01,"Hamilton, Ontario",Total (house and land),30.3
+1981-01,"Hamilton, Ontario",House only,24.8
+1981-01,"Hamilton, Ontario",Land only,46.0
+1981-01,"St. Catharines-Niagara, Ontario",Total (house and land),30.6
+1981-01,"St. Catharines-Niagara, Ontario",House only,28.3
+1981-01,"St. Catharines-Niagara, Ontario",Land only,35.6
+1981-01,"Kitchener-Cambridge-Waterloo, Ontario",Total (house and land),34.0
+1981-01,"Kitchener-Cambridge-Waterloo, Ontario",House only,30.4
+1981-01,"Kitchener-Cambridge-Waterloo, Ontario",Land only,43.4
+1981-01,"Guelph, Ontario",Total (house and land),
+1981-01,"Guelph, Ontario",House only,
+1981-01,"Guelph, Ontario",Land only,
+1981-01,"London, Ontario",Total (house and land),31.8
+1981-01,"London, Ontario",House only,27.0
+1981-01,"London, Ontario",Land only,51.0
+1981-01,"Windsor, Ontario",Total (house and land),61.2
+1981-01,"Windsor, Ontario",House only,64.9
+1981-01,"Windsor, Ontario",Land only,47.5
+1981-01,"Greater Sudbury, Ontario",Total (house and land),54.7
+1981-01,"Greater Sudbury, Ontario",House only,54.6
+1981-01,"Greater Sudbury, Ontario",Land only,51.4
+1981-01,Prairie Region,Total (house and land),
+1981-01,Prairie Region,House only,
+1981-01,Prairie Region,Land only,
+1981-01,Manitoba,Total (house and land),
+1981-01,Manitoba,House only,
+1981-01,Manitoba,Land only,
+1981-01,"Winnipeg, Manitoba",Total (house and land),26.6
+1981-01,"Winnipeg, Manitoba",House only,29.3
+1981-01,"Winnipeg, Manitoba",Land only,18.7
+1981-01,Saskatchewan,Total (house and land),
+1981-01,Saskatchewan,House only,
+1981-01,Saskatchewan,Land only,
+1981-01,"Regina, Saskatchewan",Total (house and land),19.8
+1981-01,"Regina, Saskatchewan",House only,20.7
+1981-01,"Regina, Saskatchewan",Land only,16.7
+1981-01,"Saskatoon, Saskatchewan",Total (house and land),33.0
+1981-01,"Saskatoon, Saskatchewan",House only,35.8
+1981-01,"Saskatoon, Saskatchewan",Land only,26.0
+1981-01,Alberta,Total (house and land),
+1981-01,Alberta,House only,
+1981-01,Alberta,Land only,
+1981-01,"Calgary, Alberta",Total (house and land),25.3
+1981-01,"Calgary, Alberta",House only,27.8
+1981-01,"Calgary, Alberta",Land only,19.4
+1981-01,"Edmonton, Alberta",Total (house and land),35.8
+1981-01,"Edmonton, Alberta",House only,36.5
+1981-01,"Edmonton, Alberta",Land only,32.7
+1981-01,British Columbia,Total (house and land),
+1981-01,British Columbia,House only,
+1981-01,British Columbia,Land only,
+1981-01,"Kelowna, British Columbia",Total (house and land),
+1981-01,"Kelowna, British Columbia",House only,
+1981-01,"Kelowna, British Columbia",Land only,
+1981-01,"Vancouver, British Columbia",Total (house and land),90.5
+1981-01,"Vancouver, British Columbia",House only,96.1
+1981-01,"Vancouver, British Columbia",Land only,83.5
+1981-01,"Victoria, British Columbia",Total (house and land),128.7
+1981-01,"Victoria, British Columbia",House only,206.8
+1981-01,"Victoria, British Columbia",Land only,50.5
+1981-02,Canada,Total (house and land),38.7
+1981-02,Canada,House only,36.5
+1981-02,Canada,Land only,41.0
+1981-02,Atlantic Region,Total (house and land),
+1981-02,Atlantic Region,House only,
+1981-02,Atlantic Region,Land only,
+1981-02,Newfoundland and Labrador,Total (house and land),
+1981-02,Newfoundland and Labrador,House only,
+1981-02,Newfoundland and Labrador,Land only,
+1981-02,"St. John's, Newfoundland and Labrador",Total (house and land),36.2
+1981-02,"St. John's, Newfoundland and Labrador",House only,37.5
+1981-02,"St. John's, Newfoundland and Labrador",Land only,31.8
+1981-02,Prince Edward Island,Total (house and land),
+1981-02,Prince Edward Island,House only,
+1981-02,Prince Edward Island,Land only,
+1981-02,"Charlottetown, Prince Edward Island",Total (house and land),
+1981-02,"Charlottetown, Prince Edward Island",House only,
+1981-02,"Charlottetown, Prince Edward Island",Land only,
+1981-02,Nova Scotia,Total (house and land),
+1981-02,Nova Scotia,House only,
+1981-02,Nova Scotia,Land only,
+1981-02,"Halifax, Nova Scotia",Total (house and land),
+1981-02,"Halifax, Nova Scotia",House only,
+1981-02,"Halifax, Nova Scotia",Land only,32.5
+1981-02,New Brunswick,Total (house and land),
+1981-02,New Brunswick,House only,
+1981-02,New Brunswick,Land only,
+1981-02,"Saint John, Fredericton, and Moncton, New Brunswick",Total (house and land),56.2
+1981-02,"Saint John, Fredericton, and Moncton, New Brunswick",House only,62.1
+1981-02,"Saint John, Fredericton, and Moncton, New Brunswick",Land only,38.0
+1981-02,Quebec,Total (house and land),
+1981-02,Quebec,House only,
+1981-02,Quebec,Land only,
+1981-02,"Québec, Quebec",Total (house and land),30.6
+1981-02,"Québec, Quebec",House only,35.4
+1981-02,"Québec, Quebec",Land only,20.3
+1981-02,"Sherbrooke, Quebec",Total (house and land),
+1981-02,"Sherbrooke, Quebec",House only,
+1981-02,"Sherbrooke, Quebec",Land only,
+1981-02,"Trois-Rivières, Quebec",Total (house and land),
+1981-02,"Trois-Rivières, Quebec",House only,
+1981-02,"Trois-Rivières, Quebec",Land only,
+1981-02,"Montréal, Quebec",Total (house and land),28.8
+1981-02,"Montréal, Quebec",House only,30.2
+1981-02,"Montréal, Quebec",Land only,20.7
+1981-02,"Ottawa-Gatineau, Quebec part, Ontario/Quebec",Total (house and land),
+1981-02,"Ottawa-Gatineau, Quebec part, Ontario/Quebec",House only,
+1981-02,"Ottawa-Gatineau, Quebec part, Ontario/Quebec",Land only,
+1981-02,Ontario,Total (house and land),
+1981-02,Ontario,House only,
+1981-02,Ontario,Land only,
+1981-02,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",Total (house and land),32.6
+1981-02,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",House only,30.8
+1981-02,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",Land only,39.9
+1981-02,"Oshawa, Ontario",Total (house and land),
+1981-02,"Oshawa, Ontario",House only,
+1981-02,"Oshawa, Ontario",Land only,
+1981-02,"Toronto, Ontario",Total (house and land),28.5
+1981-02,"Toronto, Ontario",House only,23.2
+1981-02,"Toronto, Ontario",Land only,39.3
+1981-02,"Hamilton, Ontario",Total (house and land),30.4
+1981-02,"Hamilton, Ontario",House only,24.9
+1981-02,"Hamilton, Ontario",Land only,46.0
+1981-02,"St. Catharines-Niagara, Ontario",Total (house and land),30.8
+1981-02,"St. Catharines-Niagara, Ontario",House only,28.6
+1981-02,"St. Catharines-Niagara, Ontario",Land only,35.6
+1981-02,"Kitchener-Cambridge-Waterloo, Ontario",Total (house and land),34.1
+1981-02,"Kitchener-Cambridge-Waterloo, Ontario",House only,30.5
+1981-02,"Kitchener-Cambridge-Waterloo, Ontario",Land only,43.5
+1981-02,"Guelph, Ontario",Total (house and land),
+1981-02,"Guelph, Ontario",House only,
+1981-02,"Guelph, Ontario",Land only,
+1981-02,"London, Ontario",Total (house and land),32.3
+1981-02,"London, Ontario",House only,27.5
+1981-02,"London, Ontario",Land only,51.4
+1981-02,"Windsor, Ontario",Total (house and land),61.2
+1981-02,"Windsor, Ontario",House only,64.9
+1981-02,"Windsor, Ontario",Land only,47.5
+1981-02,"Greater Sudbury, Ontario",Total (house and land),55.4
+1981-02,"Greater Sudbury, Ontario",House only,55.6
