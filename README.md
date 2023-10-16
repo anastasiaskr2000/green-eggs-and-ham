@@ -21,4 +21,6 @@ By conducting a t-test on both datasets, we've determined that there is no signi
 Additional Factors to Consider:
 We must note that while immigration can impact the housing market, it's not the only factor at play. Consideration of interest rates, economic conditions, demographics, and government policies is crucial. These factors can influence housing demand and supply, affecting prices and market dynamics.
 
+Limitations: In contrast to our hypothesis, the negative coefficient in the Machine Learning was an interesting find!
+
 This analysis has given us a comprehensive understanding of the complexities involved in the housing market and the importance of taking a holistic approach to analysis. It's important to continue monitoring and researching these factors to make informed decisions regarding investments, housing policies, and economic planning.
